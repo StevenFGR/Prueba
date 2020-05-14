@@ -1,0 +1,16 @@
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\bin\Debug\netstandard2.0\ConsumirAPI.deps.json
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\bin\Debug\netstandard2.0\ConsumirAPI.dll
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\bin\Debug\netstandard2.0\ref\ConsumirAPI.dll
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\bin\Debug\netstandard2.0\ConsumirAPI.pdb
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.AssemblyInfoInputs.cache
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.AssemblyInfo.cs
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.dll
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ref\ConsumirAPI.dll
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.pdb
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\ConsumirAPI.csprojAssemblyReference.cache
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\Empresa.xaml.g.cs
+C:\Users\Steven Gutierrez\source\repos\ConsumirAPI\ConsumirAPI\ConsumirAPI\obj\Debug\netstandard2.0\Transporte.xaml.g.cs
